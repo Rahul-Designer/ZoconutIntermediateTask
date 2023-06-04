@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="15dp"
             android:layout_marginTop="19dp"
-            android:text="MovieFlix"
+            android:text="Corcast"
             android:textColor="@color/black"
             android:textSize="29sp"
             android:textStyle="bold"
