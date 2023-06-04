@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "848279626488",
+    "firebase_url": "https://zoconutintermediatetask-default-rtdb.firebaseio.com",
+    "project_id": "zoconutintermediatetask",
+    "storage_bucket": "zoconutintermediatetask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848279626488:android:34bee93d322e502dc8110d",
+        "android_client_info": {
+          "package_name": "corcast.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848279626488-m6h07i5hkcsl4fpeejo50grj0jr5isd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYEk0tGCOy6R-fbTar9vniI9m2UOenDO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848279626488-m6h07i5hkcsl4fpeejo50grj0jr5isd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848279626488:android:eee59853443fefb5c8110d",
+        "android_client_info": {
+          "package_name": "movieflix.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848279626488-m6h07i5hkcsl4fpeejo50grj0jr5isd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYEk0tGCOy6R-fbTar9vniI9m2UOenDO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848279626488-m6h07i5hkcsl4fpeejo50grj0jr5isd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
